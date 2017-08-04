@@ -1,0 +1,46 @@
+.App {
+ 
+  margin-right: 20px;
+  margin-left: 20px;
+}
+
+.App-logo {
+  animation: App-logo-spin infinite 20s linear;
+  height: 50px;
+  margin-top: 4px;
+
+}
+.nav{
+  margin-top: 0px;
+  background-color: green;
+  margin-right: 10px;
+}
+
+.nav li{
+    align-content: right;
+        
+}
+.nav button{
+  width: 80px;
+  color: red;
+  background-color: lightblue;
+}
+#p-nav{
+  font-size: 20px;
+  color: red;
+}
+
+.App-header {
+  background-color: green;
+  height: 60px;
+  color: white;
+  margin-top: 5px;
+  margin-bottom: 2px;
+}
+
+
+@keyframes App-logo-spin {
+  from { transform: rotate(0deg); }
+  to { transform: rotate(360deg); }
+}
+

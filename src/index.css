@@ -1,0 +1,122 @@
+body {
+  margin: 0;
+  padding: 0;
+  font-family: sans-serif;
+  background-color: black;
+}
+
+#firstPage button{
+	margin-top: 30px;
+	margin-left: 12px;
+	height: 120px;
+	width: 23.5%;
+}
+#firstPagePolice button{
+	margin-top: 10px;
+	margin-left: 12px;
+	height: 120px;
+	width: 32%;
+}
+
+.navbar{
+	background-color: green;
+}
+.student button{
+	height: 30px;
+	width: 60px;
+}
+
+#bannerTop{
+	height: 120px;
+	margin-top: 10px;
+	background-image: url("./image/01-banner.jpg");
+	background-repeat: no-repeat;
+	background-size: 100% 120px;
+}
+#bannerTop1{
+	height: 80px;
+	margin-top: 20px;
+	margin-bottom: 35px;
+	background-image: url("./image/01-banner.jpg");
+	background-repeat: no-repeat;
+	background-size: 100% 80px;
+}
+
+
+#firstpageButton button{
+	height: 30px;
+	width: 100%;
+	margin-bottom: 5px;
+	cursor: pointer; 
+    display: block;
+}
+#banner button{
+  margin-top: 20px;
+  margin-right: 25px;
+  width: 100px;
+  color: white;
+  background-color: gray;
+}
+#banner2 button{
+  margin-top: 40px;
+  margin-right: 45px;
+  width: 100px;
+  color: white;
+  background-color: gray;
+}
+#bannerTop h3{
+	text-align: left;
+	color: white;
+}
+h5{
+	color: black;
+}
+h2{
+	color: yellow;
+}
+h4{
+	color: green;
+}
+#police button{
+	height: 80px;
+	width: 60%;
+	color: white;
+	background-color: gray;
+}
+#developer button{
+	height: 50px;
+	width: 60%;
+	color: white;
+	background-color: gray;
+}
+#basic button{
+	height: 80px;
+	width: 60%;
+	color: white;
+	background-color: gray;
+}
+#one{
+	text-align: center;
+	background-color: lightblue;
+	margin-right: 1%;	
+}
+#two{
+	text-align: center;
+	background-color: lightpink;
+	margin-right: 1%;
+}#three{
+	text-align: center;
+	background-color: lightblue;
+}
+#one button{
+	color: white;
+	background-color: gray;
+}
+#two button{
+	color: white;
+	background-color: gray;
+}
+#three button{
+	color: white;
+	background-color: gray;
+}
